@@ -1,4 +1,3 @@
-# Introducci-n-a-la-programaci-n-
 algoritmo Numero_Mayor
  definir num1, num2, num3 como numerico;
  escribir "Ingresa el primer número: ";
